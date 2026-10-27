@@ -1,1 +1,1 @@
-# EDA-Project-Accident-Data-
+# EDA-Project-Accident-Data-Severity
